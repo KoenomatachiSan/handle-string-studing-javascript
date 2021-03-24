@@ -12,3 +12,4 @@ The java script allows:
 * Replace word / phrase of string
 * Verify length of string
 * Slice String
+* Remove extern spaces from string
