@@ -11,3 +11,4 @@ The java script allows:
 * Change case of string
 * Replace word / phrase of string
 * Verify length of string
+* Slice String
