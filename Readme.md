@@ -1,4 +1,4 @@
-# Java Script - Review Zero To Expert - Text Formatting 
+# Java Script - Review Zero To Expert - Handle String
 
 Because a personal reasons, i will review and study JavaScript again!
 
